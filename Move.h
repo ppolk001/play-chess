@@ -12,6 +12,7 @@ class Move {
     int indexFrom;
     int indexTo;
 
+    /*helpers*/
     bool KnightReader(int, int, int);
     bool BishopReader(int, int, int);
   
